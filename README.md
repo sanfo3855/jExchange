@@ -1,6 +1,5 @@
 # jExchange
 
-### REPORT jExchange
 Exam: Sistemi Operativi – Informatica per il Management - Alma Mater Studiorum Bologna - A.A. 2015-2016
 
 ### INTRODUCTION
